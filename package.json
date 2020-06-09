@@ -1,0 +1,21 @@
+{
+  "name": "todos-server",
+  "version": "1.0.0",
+  "description": "A JSON server that will be hosted on vercel for our todo-app also hosted on vercel.",
+  "main": "index.js",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "now": "^19.0.1",
+    "vercel": "^19.0.1"
+  },
+  "scripts": {
+    "start": "json-server data.json",
+    "startport": "json-server data.json --port 3777"
+  },
+  "keywords": [
+    "json",
+    "server"
+  ],
+  "author": "Ajmal Khan",
+  "license": "MIT"
+}

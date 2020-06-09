@@ -1,0 +1,9 @@
+{
+  "todos": [
+    { "id": 1, "text": "Do 17 chin-ups", "complete": false },
+    { "id": 2, "text": "Do", "complete": false },
+    { "id": 3, "text": "Do it", "complete": true },
+    { "id": 4, "text": "Do now", "complete": false },
+    { "id": 5, "text": "Run 10 km", "complete": true }
+  ]
+}
